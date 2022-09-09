@@ -6,19 +6,19 @@
 */
 int main(void)
 {
-int i, j;
+int i, e;
 i = 48;
-j = 48;
-while (j < 58)
+e = 48;
+while (e < 58)
 {
 i = 48;
 while (i < 58)
 {
-if (j != i&& j < i)
+if (e != i && e < i)
 {
-putchar(j);
+putchar(e);
 putchar(i);
-if (i == 57 && j == 56)
+if (i == 57 && e == 56)
 {
 break;
 }
@@ -27,7 +27,7 @@ putchar(' ');
 }
 i++;
 }
-j++;
+e++;
 }
 putchar('\n');
 return (0);
