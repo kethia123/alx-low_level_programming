@@ -1,0 +1,1 @@
+This read me talks about the array strings
