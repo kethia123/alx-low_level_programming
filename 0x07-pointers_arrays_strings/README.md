@@ -1,0 +1,1 @@
+This directory is the continuation of the arrays and pointers
