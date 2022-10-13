@@ -1,1 +1,1 @@
-This is the tenth directory.
+This directory is about functions
