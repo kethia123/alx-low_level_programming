@@ -1,1 +1,1 @@
-This directory is about functions
+This is the new directory.
