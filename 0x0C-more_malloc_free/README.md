@@ -1,1 +1,1 @@
-This is a new directory made.
+This directory is about more of allocating the memory.

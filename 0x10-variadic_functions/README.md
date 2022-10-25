@@ -1,1 +1,1 @@
-This is the new directory.
+This read me is about variadic functions

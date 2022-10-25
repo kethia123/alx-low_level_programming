@@ -1,1 +1,1 @@
-This read me talks about the array strings
+This directory stores the tasks on arrays and strings

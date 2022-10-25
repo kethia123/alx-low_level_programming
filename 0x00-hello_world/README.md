@@ -1,1 +1,1 @@
-this is a new readme directory
+This is a new readme in this directory

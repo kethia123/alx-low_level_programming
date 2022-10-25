@@ -1,1 +1,1 @@
-this is a read me in the directory
+this a new readme in this directory

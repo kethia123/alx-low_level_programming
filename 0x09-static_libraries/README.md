@@ -1,1 +1,1 @@
-This readme is about static libraries.
+This directory is about static libraries.

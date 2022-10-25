@@ -1,1 +1,1 @@
-This is about the singly linked lists.
+This read me is about singly linked lists.
